@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://notes.280222.xyz</id>
+    <title>MH的小窝</title>
+    <updated>2024-12-21T14:51:12.376Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://notes.280222.xyz"/>
+    <link rel="self" href="https://notes.280222.xyz/atom.xml"/>
+    <subtitle>子不语怪力乱神</subtitle>
+    <logo>https://notes.280222.xyz/images/avatar.png</logo>
+    <icon>https://notes.280222.xyz/favicon.ico</icon>
+    <rights>All rights reserved 2024, MH的小窝</rights>
+    <entry>
+        <title type="html"><![CDATA[EP20-Cloudflare禁止用于代理用途和优选ip，唉]]></title>
+        <id>https://notes.280222.xyz/post/ep20/</id>
+        <link href="https://notes.280222.xyz/post/ep20/">
+        </link>
+        <updated>2024-12-20T09:23:44.000Z</updated>
+        <summary type="html"><![CDATA[<p>一觉醒来就发现CF出了一个这样的公告，顿时感觉天都要塌了，如果CF不再提供支持的话，那么我所有的CF<strong>优选IP</strong>都会挂掉，并且CF还说会有<strong>删库</strong>的可能</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一觉醒来就发现CF出了一个这样的公告，顿时感觉天都要塌了，如果CF不再提供支持的话，那么我所有的CF<strong>优选IP</strong>都会挂掉，并且CF还说会有<strong>删库</strong>的可能</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EP06-AI小测试“帮我从一天的学习中解压”]]></title>
+        <id>https://notes.280222.xyz/post/ep06/</id>
+        <link href="https://notes.280222.xyz/post/ep06/">
+        </link>
+        <updated>2024-03-07T14:46:00.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="chatgpt">ChatGPT</h2>
+<p>学习一天之后的确需要放松一下。你可以试试以下几种方式来解压：</p>
+]]></summary>
+        <content type="html"><![CDATA[<h2 id="chatgpt">ChatGPT</h2>
+<p>学习一天之后的确需要放松一下。你可以试试以下几种方式来解压：</p>
+<!-- more -->
+<ol>
+<li>
+<p><strong>冥想或深呼吸</strong>：坐下来，闭上眼睛，深呼吸几次。试着专注于呼吸，感受身体的放松。</p>
+</li>
+<li>
+<p><strong>走一走</strong>：如果可能的话，出去走走，哪怕只是绕着楼走几圈。新鲜空气和运动能够帮你清理思绪。</p>
+</li>
+<li>
+<p><strong>做点轻松的娱乐活动</strong>：比如看一集喜剧，或者听一些轻松的音乐，让自己沉浸在愉快的氛围中。</p>
+</li>
+<li>
+<p><strong>动手做些创作</strong>：比如画画、写一些自由的文字，或者做一些你喜欢的DIY。创作能够帮助你放松和表达自己。</p>
+</li>
+<li>
+<p><strong>泡一杯热茶</strong>：茶有助于放松神经，温暖的茶水也能让你的身心得到舒缓。</p>
+</li>
+<li>
+<p><strong>短时间休息</strong>：闭上眼睛躺在床上，放空自己10-20分钟，让大脑休息。</p>
+</li>
+<li>
+<p><strong>进行运动</strong>：如果你喜欢运动，可以做一些瑜伽或简单的拉伸运动，释放肌肉的紧张感。</p>
+</li>
+</ol>
+<p>有时让自己静下心来，放松一下，比长时间不停地学习效果更好。你今天学习了哪些内容？</p>
+<h2 id="gemini">Gemini</h2>
+<p>以下是一些 YouTube Music 上适合从一天的学习中解压的音乐：<br>
+http://googleusercontent.com/action_card_content/0</p>
+<h2 id="microsoftcopilot">MicrosoftCopilot</h2>
+<p>学习一天也需要好好放松！以下是一些放松的方法，希望对你有帮助：</p>
+<ol>
+<li><strong>户外活动</strong>：走出房间，去公园散散步或骑自行车，呼吸新鲜空气，放松身心。</li>
+<li><strong>听音乐</strong>：选择一些轻松或你喜欢的音乐，让音乐带走一天的压力。</li>
+<li><strong>放松练习</strong>：尝试一些简单的瑜伽或深呼吸练习，帮助你放松紧张的肌肉。</li>
+<li><strong>爱好</strong>：花些时间做你喜欢的事情，比如绘画、烹饪、园艺等，让自己沉浸在快乐中。</li>
+<li><strong>阅读</strong>：阅读一本轻松愉快的书籍，或者看看你喜欢的漫画，暂时逃离学习的压力。</li>
+<li><strong>热水澡</strong>：泡个热水澡，放松肌肉的同时，也让大脑得到休息。</li>
+<li><strong>和朋友或家人聊天</strong>：分享你今天的收获和感受，与他们交流，获得支持和安慰。</li>
+<li><strong>打游戏</strong>：适度地玩一会儿游戏，放松心情。</li>
+</ol>
+<p>记住，适度放松不仅有助于减轻压力，还能让你第二天更有精力和动力去学习。希望这些建议能帮到你！😊</p>
+<p>我个人觉得ChatGPT的回答更好些</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EP05-算公益项目吧，给大家搭建了一个谷歌搜索镜像网站]]></title>
+        <id>https://notes.280222.xyz/post/ep05/</id>
+        <link href="https://notes.280222.xyz/post/ep05/">
+        </link>
+        <updated>2024-02-21T13:56:15.000Z</updated>
+        <summary type="html"><![CDATA[<p>“SearXNG 是一款免费的互联网元搜索引擎，它汇总了来自各种搜索服务和数据库的结果。它不会跟踪或分析用户。”SearXNG是GitHub上的一款开源程序<a href="https://github.com/searxng/searxng">https://github.com/searxng/searxng</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>“SearXNG 是一款免费的互联网元搜索引擎，它汇总了来自各种搜索服务和数据库的结果。它不会跟踪或分析用户。”SearXNG是GitHub上的一款开源程序<a href="https://github.com/searxng/searxng">https://github.com/searxng/searxng</a></p>
+<!-- more -->
+<p>那他如果搭建在<strong>海外服务器</strong>上，将搜索引擎选到Google，就可以<strong>无需科学上网</strong>来进行Google搜索了<br>
+我搭建的镜像网站：<a href="https://ss.280222.xyz/">https://ss.280222.xyz/</a> （免费，无广告）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EP04-在线代码混淆工具该如何搭建]]></title>
+        <id>https://notes.280222.xyz/post/ep04/</id>
+        <link href="https://notes.280222.xyz/post/ep04/">
+        </link>
+        <updated>2024-02-02T04:26:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>我写了一个代码，可直接托管并部署到cloudflare和vercel<br>
+这是GitHub开源地址<a href="https://github.com/liuyewen111/Code-Obfuscation">https://github.com/liuyewen111/Code-Obfuscation</a></p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我写了一个代码，可直接托管并部署到cloudflare和vercel<br>
+这是GitHub开源地址<a href="https://github.com/liuyewen111/Code-Obfuscation">https://github.com/liuyewen111/Code-Obfuscation</a></p>
+<!-- more -->
+<p>在线体验：<br>
+<a href="https://hunxiao.280222.us.kg/">https://hunxiao.280222.us.kg/</a><br>
+<a href="https://hunxiao-b81.pages.dev/">https://hunxiao-b81.pages.dev/</a><br>
+<a href="https://code-obfuscation-sp68.vercel.app/">https://code-obfuscation-sp68.vercel.app/</a></p>
+<h3 id="1-html-文件-indexhtml">1. HTML 文件 (index.html)</h3>
+<pre><code class="language-html">&lt;!DOCTYPE html&gt;
+&lt;html lang=&quot;zh-CN&quot;&gt;
+&lt;head&gt;
+    &lt;meta charset=&quot;UTF-8&quot;&gt;
+    &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt;
+    &lt;title&gt;在线代码混淆工具&lt;/title&gt;
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot;&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div class=&quot;container&quot;&gt;
+        &lt;h1&gt;在线代码混淆工具&lt;/h1&gt;
+
+        &lt;div class=&quot;form-group&quot;&gt;
+            &lt;label for=&quot;inputCode&quot;&gt;请输入代码：&lt;/label&gt;
+            &lt;textarea id=&quot;inputCode&quot; rows=&quot;10&quot; placeholder=&quot;在此输入代码&quot;&gt;&lt;/textarea&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;form-group&quot;&gt;
+            &lt;label for=&quot;obfuscationLevel&quot;&gt;选择混淆程度：&lt;/label&gt;
+            &lt;select id=&quot;obfuscationLevel&quot;&gt;
+                &lt;option value=&quot;low&quot;&gt;低档&lt;/option&gt;
+                &lt;option value=&quot;medium&quot;&gt;中档&lt;/option&gt;
+                &lt;option value=&quot;high&quot;&gt;高档&lt;/option&gt;
+            &lt;/select&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;form-group&quot;&gt;
+            &lt;button onclick=&quot;obfuscateCode()&quot;&gt;混淆代码&lt;/button&gt;
+        &lt;/div&gt;
+
+        &lt;div class=&quot;form-group&quot;&gt;
+            &lt;label for=&quot;outputCode&quot;&gt;混淆后的代码：&lt;/label&gt;
+            &lt;textarea id=&quot;outputCode&quot; rows=&quot;10&quot; readonly placeholder=&quot;混淆后的代码将在此显示&quot;&gt;&lt;/textarea&gt;
+        &lt;/div&gt;
+
+        &lt;button id=&quot;copyButton&quot;&gt;复制代码&lt;/button&gt;
+    &lt;/div&gt;
+
+    &lt;script src=&quot;script.js&quot;&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+<h3 id="2-css-文件-stylecss">2. CSS 文件 (style.css)</h3>
+<pre><code class="language-css">body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 80%;
+    max-width: 800px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+textarea {
+    width: 100%;
+    padding: 10px;
+    font-family: monospace;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#copyButton {
+    background-color: #28a745;
+}
+
+#copyButton:hover {
+    background-color: #218838;
+}
+</code></pre>
+<h3 id="3-javascript-文件-scriptjs">3. JavaScript 文件 (script.js)</h3>
+<pre><code class="language-javascript">// 混淆级别选择
+function obfuscateCode() {
+    let inputCode = document.getElementById('inputCode').value;
+    let level = document.getElementById('obfuscationLevel').value;
+
+    if (!inputCode) {
+        alert('请输入代码！');
+        return;
+    }
+
+    let obfuscatedCode;
+    switch (level) {
+        case 'low':
+            obfuscatedCode = lowLevelObfuscate(inputCode);
+            break;
+        case 'medium':
+            obfuscatedCode = mediumLevelObfuscate(inputCode);
+            break;
+        case 'high':
+            obfuscatedCode = highLevelObfuscate(inputCode);
+            break;
+        default:
+            obfuscatedCode = inputCode;
+    }
+
+    document.getElementById('outputCode').value = obfuscatedCode;
+}
+
+// 低档混淆：简单替换变量名
+function lowLevelObfuscate(code) {
+    const randomString = (length) =&gt; {
+        let result = '';
+        const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+        const charactersLength = characters.length;
+        for (let i = 0; i &lt; length; i++) {
+            result += characters.charAt(Math.floor(Math.random() * charactersLength));
+        }
+        return result;
+    };
+
+    return code.replace(/\b([a-zA-Z_][a-zA-Z0-9_]*)\b/g, (match) =&gt; {
+        if (match.length &gt; 2) {
+            return '_' + randomString(5);
+        }
+        return match;
+    });
+}
+
+// 中档混淆：除了替换变量名，还会压缩代码
+function mediumLevelObfuscate(code) {
+    let obfuscatedCode = lowLevelObfuscate(code);
+    obfuscatedCode = obfuscatedCode.replace(/\s+/g, ' ').replace(/;\s*/g, ';');
+    return obfuscatedCode;
+}
+
+// 高档混淆：更复杂的代码混淆，可能包括控制流混淆等
+function highLevelObfuscate(code) {
+    let obfuscatedCode = mediumLevelObfuscate(code);
+    obfuscatedCode = obfuscatedCode.replace(/\bfunction\b/g, 'f');
+    obfuscatedCode = obfuscatedCode.replace(/\bvar\b/g, 'v');
+    // 可以加入更多高级混淆处理
+    return obfuscatedCode;
+}
+
+// 复制代码到剪贴板
+document.getElementById('copyButton').addEventListener('click', function () {
+    const outputCode = document.getElementById('outputCode');
+    outputCode.select();
+    document.execCommand('copy');
+    alert('代码已复制到剪贴板');
+});
+</code></pre>
+<h3 id="代码解释">代码解释</h3>
+<ol>
+<li>
+<p><strong>HTML 部分</strong>：</p>
+<ul>
+<li>用户输入原始代码后，选择混淆级别，点击按钮即可得到混淆后的代码。</li>
+<li>提供了一个按钮来复制混淆后的代码到剪贴板，方便用户使用。</li>
+</ul>
+</li>
+<li>
+<p><strong>CSS 部分</strong>：</p>
+<ul>
+<li>提供了简洁的页面样式，确保工具界面美观且易用。</li>
+</ul>
+</li>
+<li>
+<p><strong>JavaScript 部分</strong>：</p>
+<ul>
+<li><code>lowLevelObfuscate</code>：进行简单的变量名替换，通过随机生成的字符串替换变量。</li>
+<li><code>mediumLevelObfuscate</code>：在低档混淆基础上，进一步压缩代码，去除多余的空格和换行。</li>
+<li><code>highLevelObfuscate</code>：采用更复杂的混淆手段，如替换函数名和变量名。</li>
+<li>复制功能：通过点击按钮将混淆后的代码复制到剪贴板。</li>
+</ul>
+</li>
+</ol>
+<h3 id="cloudflare-workers-兼容性">Cloudflare Workers 兼容性</h3>
+<ul>
+<li>代码混淆主要是替换变量名、函数名和去除多余的空格等，<strong>不会改变代码逻辑</strong>，因此混淆后代码仍然能够在 <strong>Cloudflare Workers</strong> 上运行。</li>
+<li>为了保证 Cloudflare Workers 上代码的正确执行，混淆级别最好选择 <strong>低档或中档</strong>，避免复杂的控制流混淆，这可能会导致 Cloudflare Workers 上的执行效率降低或出现不可预期的错误。</li>
+<li>如果需要在 Cloudflare Workers 上部署，可以将混淆后的代码部署为 Workers 脚本，类似如下：</li>
+</ul>
+<pre><code class="language-javascript">addEventListener('fetch', event =&gt; {
+  event.respondWith(handleRequest(event.request))
+})
+
+async function handleRequest(request) {
+  // 在此处添加混淆后的代码
+  return new Response('Hello Worker!', { status: 200 })
+}
+</code></pre>
+<h3 id="结论">结论</h3>
+<ul>
+<li><strong>混淆后的代码能在 Cloudflare Workers 上托管并正常运行</strong>，前提是混淆过程中没有影响到核心 API 的调用和 Cloudflare Workers 环境的兼容性。</li>
+<li>使用 <strong>低档和中档混淆</strong> 是比较安全的选择，避免了过度的复杂化，确保代码在 Cloudflare Workers 上的稳定性和执行效率。</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EP03-CDN被刷了,服]]></title>
+        <id>https://notes.280222.xyz/post/ep03/</id>
+        <link href="https://notes.280222.xyz/post/ep03/">
+        </link>
+        <updated>2023-12-29T11:50:35.000Z</updated>
+        <summary type="html"><![CDATA[<p>现在的人恶意真的很大，简简单单的开个博客，CDN被刷🤧，我上个月这个博客刚开没多久，还被ddos打了50多个G，这个月被CC打了百万请求😭</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>现在的人恶意真的很大，简简单单的开个博客，CDN被刷🤧，我上个月这个博客刚开没多久，还被ddos打了50多个G，这个月被CC打了百万请求😭</p>
+<!-- more -->
+<p>上个月看到这篇文章 <a href="https://hostloc.com/thread-1224989-1-1.html">https://hostloc.com/thread-1224989-1-1.html</a>  还觉得无伤大雅，现在回想起来，唉😔</p>
+<p>准备将网站迁到cloudflare了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EP02-破被子]]></title>
+        <id>https://notes.280222.xyz/post/ep02/</id>
+        <link href="https://notes.280222.xyz/post/ep02/">
+        </link>
+        <updated>2023-11-28T11:14:18.000Z</updated>
+        <content type="html"><![CDATA[<p>突然的降温，以及半夜怎么也盖不住的被子，这被子也就这样了😭</p>
+<!-- more -->]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MH的一切都在这，请自行查找]]></title>
+        <id>https://notes.280222.xyz/post/ep001/</id>
+        <link href="https://notes.280222.xyz/post/ep001/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎访问 <strong>MH的小窝</strong> !<strong>请按快捷键 Ctrl+F 输入视频标题来搜索内容</strong><br>
+✍️  <strong>MH的小窝</strong> 一个来记录我的生活、心情、知识、笔记、创意...... 的网站</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎访问 <strong>MH的小窝</strong> !<strong>请按快捷键 Ctrl+F 输入视频标题来搜索内容</strong><br>
+✍️  <strong>MH的小窝</strong> 一个来记录我的生活、心情、知识、笔记、创意...... 的网站</p>
+<!-- more -->
+<p><a href="https://blog.280222.xyz">MH的博客</a><br>
+<a href="https://liuyewen111.great-site.net/">MH主页</a><br>
+<a href="https://blog.280222.xyz/87.html">MH的导航</a></p>
+<h2 id="特性">特性👇</h2>
+<p>🌱 我会搭建一些<strong>公益</strong>的网站服务，如<strong>谷歌搜索镜像</strong>，<strong>WebSSH</strong>等等<br>
+<a href="http://139.9.61.207:8040/">WebSSH </a><br>
+<a href="https://ss.280222.xyz/">谷歌搜索镜像</a><br>
+<a href="https://sublink-worker.liuywewen111.workers.dev/">订阅转换</a><br>
+<a href="https://music.280222.xyz/">网易云随机音乐播放器</a><br>
+<a href="https://uptimeflare-bm4.pages.dev/">博客监控</a><br>
+<a href="https://hunxiao.280222.us.kg/">代码在线混淆</a><br>
+🌎 我会推荐一些我认为不错且实惠的的<strong>VPS</strong>，绝对不是恰饭，我是不会有任何的受益的<br>
+<a href="https://my.racknerd.com/cart.php?a=confproduct&amp;i=0">RackNerd</a></p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
